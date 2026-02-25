@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "NO MORE CRY",
+  "base_artist": "D-51",
+  "createdAt": "2026-02-25T10:04:00.759269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No More Cry",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/01_No_More_Cry_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No More Cry (Acoustic)",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/02_No_More_Cry_(Acoustic)_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "11 - No More Cry",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/03_11_-_No_More_Cry_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No More Cry (Acoustic)",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/04_No_More_Cry_(Acoustic)_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No More Cry [Acoustic]",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/05_No_More_Cry_[Acoustic]_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No More Cry (LP Version)",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/06_No_More_Cry_(LP_Version)_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NO MORE CRY",
+      "artist": "清澄高校麻雀部",
+      "has_synced": true,
+      "path": "select/07_NO_MORE_CRY_清澄高校麻雀部.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NO MORE CRY",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/08_NO_MORE_CRY_D-51.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NO MORE CRY",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/09_NO_MORE_CRY_D-51.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No More Cry (acoustic)",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/10_No_More_Cry_(acoustic)_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No More Cry",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/11_No_More_Cry_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NO MORE CRY (SMILE POWER MIX) - NO MORE CRY SMILE POWER MIX",
+      "artist": "D-51",
+      "has_synced": true,
+      "path": "select/12_NO_MORE_CRY_(SMILE_POWER_MIX)_-_NO_MORE_CRY_SMILE_POWER_MIX_D-51.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO MORE CRY",
+      "artist": "D-51",
+      "has_synced": false,
+      "path": "select/pl_01_NO_MORE_CRY_D-51.txt"
+    }
+  ]
+}
